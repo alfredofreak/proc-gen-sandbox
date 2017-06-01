@@ -7,4 +7,4 @@ Things to keep in mind if you decide to watch / star this repo:
 
 # License notes
 * SDL2.dll license info can be found [here](README-SDL.txt).
-* The rest of the repository has no license tied to it for the time being. No license != free license.
+* The rest of the repository is licensed under the [MIT license](LICENSE).
