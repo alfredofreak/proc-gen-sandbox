@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proc-gen-sandbox", "proc-gen-sandbox.csproj", "{174BF2CF-D7AA-437F-908F-76BCBF4A26F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{174BF2CF-D7AA-437F-908F-76BCBF4A26F9}.Debug|x86.ActiveCfg = Debug|x86
+		{174BF2CF-D7AA-437F-908F-76BCBF4A26F9}.Debug|x86.Build.0 = Debug|x86
+		{174BF2CF-D7AA-437F-908F-76BCBF4A26F9}.Release|x86.ActiveCfg = Release|x86
+		{174BF2CF-D7AA-437F-908F-76BCBF4A26F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
